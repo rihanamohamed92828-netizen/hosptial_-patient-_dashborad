@@ -1,0 +1,6 @@
+department,visits,avg_wait_minutes,avg_stay_days
+General Medicine,3058,51.26,1.54
+Emergency,2778,51.06,1.6
+Cardiology,1642,51.06,1.67
+Orthopedics,1310,50.8,1.65
+Pediatrics,1212,50.96,1.58
