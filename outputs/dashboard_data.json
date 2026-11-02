@@ -9,9 +9,1370 @@
   "data_end": "Sep 2026",
   "series": [
     {
+      "month": "Aug 2010",
+      "date": "2010-08-01",
+      "attendances": 1752381,
+      "admissions": 425702,
+      "within4": null,
+      "over12h": 1
+    },
+    {
+      "month": "Sep 2010",
+      "date": "2010-09-01",
+      "attendances": 1756268,
+      "admissions": 424900,
+      "within4": null,
+      "over12h": 0
+    },
+    {
+      "month": "Oct 2010",
+      "date": "2010-10-01",
+      "attendances": 1801348,
+      "admissions": 436215,
+      "within4": null,
+      "over12h": 0
+    },
+    {
+      "month": "Nov 2010",
+      "date": "2010-11-01",
+      "attendances": 1651027,
+      "admissions": 429099,
+      "within4": 97.19,
+      "over12h": 1
+    },
+    {
+      "month": "Dec 2010",
+      "date": "2010-12-01",
+      "attendances": 1737741,
+      "admissions": 452728,
+      "within4": 94.83,
+      "over12h": 14
+    },
+    {
+      "month": "Jan 2011",
+      "date": "2011-01-01",
+      "attendances": 1727796,
+      "admissions": 442003,
+      "within4": 95.78,
+      "over12h": 17
+    },
+    {
+      "month": "Feb 2011",
+      "date": "2011-02-01",
+      "attendances": 1599364,
+      "admissions": 401206,
+      "within4": 97.06,
+      "over12h": 2
+    },
+    {
+      "month": "Mar 2011",
+      "date": "2011-03-01",
+      "attendances": 1863441,
+      "admissions": 446845,
+      "within4": 96.82,
+      "over12h": 0
+    },
+    {
+      "month": "Apr 2011",
+      "date": "2011-04-01",
+      "attendances": 1844374,
+      "admissions": 419243,
+      "within4": 96.89,
+      "over12h": 6
+    },
+    {
+      "month": "May 2011",
+      "date": "2011-05-01",
+      "attendances": 1873695,
+      "admissions": 427276,
+      "within4": 97.08,
+      "over12h": 2
+    },
+    {
+      "month": "Jun 2011",
+      "date": "2011-06-01",
+      "attendances": 1785417,
+      "admissions": 413320,
+      "within4": 97.1,
+      "over12h": 9
+    },
+    {
+      "month": "Jul 2011",
+      "date": "2011-07-01",
+      "attendances": 1864959,
+      "admissions": 425797,
+      "within4": 97.59,
+      "over12h": 5
+    },
+    {
+      "month": "Aug 2011",
+      "date": "2011-08-01",
+      "attendances": 1758108,
+      "admissions": 410554,
+      "within4": 97.44,
+      "over12h": 0
+    },
+    {
+      "month": "Sep 2011",
+      "date": "2011-09-01",
+      "attendances": 1781210,
+      "admissions": 410760,
+      "within4": 96.89,
+      "over12h": 9
+    },
+    {
+      "month": "Oct 2011",
+      "date": "2011-10-01",
+      "attendances": 1848912,
+      "admissions": 435080,
+      "within4": 96.62,
+      "over12h": 41
+    },
+    {
+      "month": "Nov 2011",
+      "date": "2011-11-01",
+      "attendances": 1741440,
+      "admissions": 424886,
+      "within4": 96.6,
+      "over12h": 28
+    },
+    {
+      "month": "Dec 2011",
+      "date": "2011-12-01",
+      "attendances": 1732045,
+      "admissions": 441655,
+      "within4": 95.8,
+      "over12h": 3
+    },
+    {
+      "month": "Jan 2012",
+      "date": "2012-01-01",
+      "attendances": 1737518,
+      "admissions": 436198,
+      "within4": 95.76,
+      "over12h": 8
+    },
+    {
+      "month": "Feb 2012",
+      "date": "2012-02-01",
+      "attendances": 1704231,
+      "admissions": 420552,
+      "within4": 94.99,
+      "over12h": 6
+    },
+    {
+      "month": "Mar 2012",
+      "date": "2012-03-01",
+      "attendances": 1933152,
+      "admissions": 454396,
+      "within4": 96.54,
+      "over12h": 0
+    },
+    {
+      "month": "Apr 2012",
+      "date": "2012-04-01",
+      "attendances": 1769523,
+      "admissions": 424128,
+      "within4": 96.35,
+      "over12h": 0
+    },
+    {
+      "month": "May 2012",
+      "date": "2012-05-01",
+      "attendances": 1929570,
+      "admissions": 443877,
+      "within4": 96.81,
+      "over12h": 0
+    },
+    {
+      "month": "Jun 2012",
+      "date": "2012-06-01",
+      "attendances": 1887841,
+      "admissions": 426005,
+      "within4": 96.75,
+      "over12h": 1
+    },
+    {
+      "month": "Jul 2012",
+      "date": "2012-07-01",
+      "attendances": 1924523,
+      "admissions": 444954,
+      "within4": 97.07,
+      "over12h": 1
+    },
+    {
+      "month": "Aug 2012",
+      "date": "2012-08-01",
+      "attendances": 1845142,
+      "admissions": 425172,
+      "within4": 97.04,
+      "over12h": 1
+    },
+    {
+      "month": "Sep 2012",
+      "date": "2012-09-01",
+      "attendances": 1788490,
+      "admissions": 421778,
+      "within4": 96.69,
+      "over12h": 1
+    },
+    {
+      "month": "Oct 2012",
+      "date": "2012-10-01",
+      "attendances": 1832304,
+      "admissions": 446302,
+      "within4": 96.24,
+      "over12h": 0
+    },
+    {
+      "month": "Nov 2012",
+      "date": "2012-11-01",
+      "attendances": 1755605,
+      "admissions": 435309,
+      "within4": 96.01,
+      "over12h": 0
+    },
+    {
+      "month": "Dec 2012",
+      "date": "2012-12-01",
+      "attendances": 1822425,
+      "admissions": 451180,
+      "within4": 94.67,
+      "over12h": 13
+    },
+    {
+      "month": "Jan 2013",
+      "date": "2013-01-01",
+      "attendances": 1733118,
+      "admissions": 437210,
+      "within4": 94.54,
+      "over12h": 49
+    },
+    {
+      "month": "Feb 2013",
+      "date": "2013-02-01",
+      "attendances": 1648748,
+      "admissions": 404950,
+      "within4": 94.29,
+      "over12h": 17
+    },
+    {
+      "month": "Mar 2013",
+      "date": "2013-03-01",
+      "attendances": 1865084,
+      "admissions": 453638,
+      "within4": 93.51,
+      "over12h": 81
+    },
+    {
+      "month": "Apr 2013",
+      "date": "2013-04-01",
+      "attendances": 1831420,
+      "admissions": 429244,
+      "within4": 93.44,
+      "over12h": 43
+    },
+    {
+      "month": "May 2013",
+      "date": "2013-05-01",
+      "attendances": 1891670,
+      "admissions": 437698,
+      "within4": 96.57,
+      "over12h": 0
+    },
+    {
+      "month": "Jun 2013",
+      "date": "2013-06-01",
+      "attendances": 1831036,
+      "admissions": 423199,
+      "within4": 96.92,
+      "over12h": 6
+    },
+    {
+      "month": "Jul 2013",
+      "date": "2013-07-01",
+      "attendances": 1976288,
+      "admissions": 443851,
+      "within4": 96.68,
+      "over12h": 2
+    },
+    {
+      "month": "Aug 2013",
+      "date": "2013-08-01",
+      "attendances": 1840591,
+      "admissions": 426908,
+      "within4": 96.28,
+      "over12h": 1
+    },
+    {
+      "month": "Sep 2013",
+      "date": "2013-09-01",
+      "attendances": 1768748,
+      "admissions": 427778,
+      "within4": 95.79,
+      "over12h": 8
+    },
+    {
+      "month": "Oct 2013",
+      "date": "2013-10-01",
+      "attendances": 1829429,
+      "admissions": 449631,
+      "within4": 95.67,
+      "over12h": 20
+    },
+    {
+      "month": "Nov 2013",
+      "date": "2013-11-01",
+      "attendances": 1733036,
+      "admissions": 441624,
+      "within4": 95.92,
+      "over12h": 7
+    },
+    {
+      "month": "Dec 2013",
+      "date": "2013-12-01",
+      "attendances": 1782029,
+      "admissions": 462417,
+      "within4": 95.28,
+      "over12h": 20
+    },
+    {
+      "month": "Jan 2014",
+      "date": "2014-01-01",
+      "attendances": 1739538,
+      "admissions": 457387,
+      "within4": 95.17,
+      "over12h": 42
+    },
+    {
+      "month": "Feb 2014",
+      "date": "2014-02-01",
+      "attendances": 1661814,
+      "admissions": 420487,
+      "within4": 94.64,
+      "over12h": 76
+    },
+    {
+      "month": "Mar 2014",
+      "date": "2014-03-01",
+      "attendances": 1957340,
+      "admissions": 467851,
+      "within4": 95.62,
+      "over12h": 9
+    },
+    {
+      "month": "Apr 2014",
+      "date": "2014-04-01",
+      "attendances": 1877675,
+      "admissions": 448681,
+      "within4": 95.26,
+      "over12h": 23
+    },
+    {
+      "month": "May 2014",
+      "date": "2014-05-01",
+      "attendances": 1978028,
+      "admissions": 466070,
+      "within4": 94.83,
+      "over12h": 10
+    },
+    {
+      "month": "Jun 2014",
+      "date": "2014-06-01",
+      "attendances": 1942267,
+      "admissions": 450817,
+      "within4": 95.22,
+      "over12h": 8
+    },
+    {
+      "month": "Jul 2014",
+      "date": "2014-07-01",
+      "attendances": 1993630,
+      "admissions": 463122,
+      "within4": 95.17,
+      "over12h": 5
+    },
+    {
+      "month": "Aug 2014",
+      "date": "2014-08-01",
+      "attendances": 1817309,
+      "admissions": 441757,
+      "within4": 95.11,
+      "over12h": 8
+    },
+    {
+      "month": "Sep 2014",
+      "date": "2014-09-01",
+      "attendances": 1853285,
+      "admissions": 446126,
+      "within4": 94.61,
+      "over12h": 28
+    },
+    {
+      "month": "Oct 2014",
+      "date": "2014-10-01",
+      "attendances": 1892374,
+      "admissions": 469267,
+      "within4": 93.71,
+      "over12h": 54
+    },
+    {
+      "month": "Nov 2014",
+      "date": "2014-11-01",
+      "attendances": 1830460,
+      "admissions": 464341,
+      "within4": 93.46,
+      "over12h": 35
+    },
+    {
+      "month": "Dec 2014",
+      "date": "2014-12-01",
+      "attendances": 1901226,
+      "admissions": 484360,
+      "within4": 89.89,
+      "over12h": 186
+    },
+    {
+      "month": "Jan 2015",
+      "date": "2015-01-01",
+      "attendances": 1732066,
+      "admissions": 463400,
+      "within4": 91.16,
+      "over12h": 650
+    },
+    {
+      "month": "Feb 2015",
+      "date": "2015-02-01",
+      "attendances": 1654846,
+      "admissions": 424634,
+      "within4": 91.97,
+      "over12h": 183
+    },
+    {
+      "month": "Mar 2015",
+      "date": "2015-03-01",
+      "attendances": 1942967,
+      "admissions": 474940,
+      "within4": 92.73,
+      "over12h": 53
+    },
+    {
+      "month": "Apr 2015",
+      "date": "2015-04-01",
+      "attendances": 1873167,
+      "admissions": 450253,
+      "within4": 93.28,
+      "over12h": 58
+    },
+    {
+      "month": "May 2015",
+      "date": "2015-05-01",
+      "attendances": 1937468,
+      "admissions": 468415,
+      "within4": 94.31,
+      "over12h": 46
+    },
+    {
+      "month": "Jun 2015",
+      "date": "2015-06-01",
+      "attendances": 1911209,
+      "admissions": 458790,
+      "within4": 94.8,
+      "over12h": 24
+    },
+    {
+      "month": "Jul 2015",
+      "date": "2015-07-01",
+      "attendances": 1952895,
+      "admissions": 473914,
+      "within4": 95.01,
+      "over12h": 22
+    },
+    {
+      "month": "Aug 2015",
+      "date": "2015-08-01",
+      "attendances": 1865139,
+      "admissions": 455432,
+      "within4": 94.29,
+      "over12h": 28
+    },
+    {
+      "month": "Sep 2015",
+      "date": "2015-09-01",
+      "attendances": 1859979,
+      "admissions": 464195,
+      "within4": 93.38,
+      "over12h": 23
+    },
+    {
+      "month": "Oct 2015",
+      "date": "2015-10-01",
+      "attendances": 1923108,
+      "admissions": 479987,
+      "within4": 92.33,
+      "over12h": 58
+    },
+    {
+      "month": "Nov 2015",
+      "date": "2015-11-01",
+      "attendances": 1874235,
+      "admissions": 475564,
+      "within4": 91.28,
+      "over12h": 29
+    },
+    {
+      "month": "Dec 2015",
+      "date": "2015-12-01",
+      "attendances": 1867652,
+      "admissions": 487798,
+      "within4": 90.97,
+      "over12h": 29
+    },
+    {
+      "month": "Jan 2016",
+      "date": "2016-01-01",
+      "attendances": 1906920,
+      "admissions": 484833,
+      "within4": 88.66,
+      "over12h": 158
+    },
+    {
+      "month": "Feb 2016",
+      "date": "2016-02-01",
+      "attendances": 1870776,
+      "admissions": 462864,
+      "within4": 87.75,
+      "over12h": 188
+    },
+    {
+      "month": "Mar 2016",
+      "date": "2016-03-01",
+      "attendances": 2087553,
+      "admissions": 494076,
+      "within4": 87.27,
+      "over12h": 349
+    },
+    {
+      "month": "Apr 2016",
+      "date": "2016-04-01",
+      "attendances": 1867781,
+      "admissions": 460209,
+      "within4": 90.04,
+      "over12h": 196
+    },
+    {
+      "month": "May 2016",
+      "date": "2016-05-01",
+      "attendances": 2070340,
+      "admissions": 493191,
+      "within4": 90.28,
+      "over12h": 107
+    },
+    {
+      "month": "Jun 2016",
+      "date": "2016-06-01",
+      "attendances": 1958802,
+      "admissions": 480210,
+      "within4": 90.56,
+      "over12h": 84
+    },
+    {
+      "month": "Jul 2016",
+      "date": "2016-07-01",
+      "attendances": 2079034,
+      "admissions": 490221,
+      "within4": 90.29,
+      "over12h": 113
+    },
+    {
+      "month": "Aug 2016",
+      "date": "2016-08-01",
+      "attendances": 1932901,
+      "admissions": 470554,
+      "within4": 90.98,
+      "over12h": 57
+    },
+    {
+      "month": "Sep 2016",
+      "date": "2016-09-01",
+      "attendances": 1952464,
+      "admissions": 475808,
+      "within4": 90.65,
+      "over12h": 86
+    },
+    {
+      "month": "Oct 2016",
+      "date": "2016-10-01",
+      "attendances": 2001816,
+      "admissions": 492983,
+      "within4": 89.05,
+      "over12h": 252
+    },
+    {
+      "month": "Nov 2016",
+      "date": "2016-11-01",
+      "attendances": 1907871,
+      "admissions": 489326,
+      "within4": 88.38,
+      "over12h": 457
+    },
+    {
+      "month": "Dec 2016",
+      "date": "2016-12-01",
+      "attendances": 1944567,
+      "admissions": 497915,
+      "within4": 86.18,
+      "over12h": 553
+    },
+    {
+      "month": "Jan 2017",
+      "date": "2017-01-01",
+      "attendances": 1895272,
+      "admissions": 492273,
+      "within4": 85.14,
+      "over12h": 989
+    },
+    {
+      "month": "Feb 2017",
+      "date": "2017-02-01",
+      "attendances": 1735619,
+      "admissions": 447688,
+      "within4": 87.53,
+      "over12h": 338
+    },
+    {
+      "month": "Mar 2017",
+      "date": "2017-03-01",
+      "attendances": 2015834,
+      "admissions": 509805,
+      "within4": 90.01,
+      "over12h": 270
+    },
+    {
+      "month": "Apr 2017",
+      "date": "2017-04-01",
+      "attendances": 1949762,
+      "admissions": 471328,
+      "within4": 90.52,
+      "over12h": 143
+    },
+    {
+      "month": "May 2017",
+      "date": "2017-05-01",
+      "attendances": 2066789,
+      "admissions": 505843,
+      "within4": 89.7,
+      "over12h": 115
+    },
+    {
+      "month": "Jun 2017",
+      "date": "2017-06-01",
+      "attendances": 1994056,
+      "admissions": 491206,
+      "within4": 90.73,
+      "over12h": 55
+    },
+    {
+      "month": "Jul 2017",
+      "date": "2017-07-01",
+      "attendances": 2073944,
+      "admissions": 499259,
+      "within4": 90.35,
+      "over12h": 74
+    },
+    {
+      "month": "Aug 2017",
+      "date": "2017-08-01",
+      "attendances": 1924663,
+      "admissions": 486074,
+      "within4": 90.3,
+      "over12h": 50
+    },
+    {
+      "month": "Sep 2017",
+      "date": "2017-09-01",
+      "attendances": 1925961,
+      "admissions": 486799,
+      "within4": 89.67,
+      "over12h": 77
+    },
+    {
+      "month": "Oct 2017",
+      "date": "2017-10-01",
+      "attendances": 2044137,
+      "admissions": 513217,
+      "within4": 89.94,
+      "over12h": 57
+    },
+    {
+      "month": "Nov 2017",
+      "date": "2017-11-01",
+      "attendances": 1976971,
+      "admissions": 513019,
+      "within4": 88.77,
+      "over12h": 107
+    },
+    {
+      "month": "Dec 2017",
+      "date": "2017-12-01",
+      "attendances": 2003954,
+      "admissions": 520803,
+      "within4": 84.99,
+      "over12h": 517
+    },
+    {
+      "month": "Jan 2018",
+      "date": "2018-01-01",
+      "attendances": 2000086,
+      "admissions": 526045,
+      "within4": 85.3,
+      "over12h": 1054
+    },
+    {
+      "month": "Feb 2018",
+      "date": "2018-02-01",
+      "attendances": 1820012,
+      "admissions": 476867,
+      "within4": 85.04,
+      "over12h": 369
+    },
+    {
+      "month": "Mar 2018",
+      "date": "2018-03-01",
+      "attendances": 2049785,
+      "admissions": 526066,
+      "within4": 84.62,
+      "over12h": 853
+    },
+    {
+      "month": "Apr 2018",
+      "date": "2018-04-01",
+      "attendances": 1984369,
+      "admissions": 503393,
+      "within4": 88.57,
+      "over12h": 356
+    },
+    {
+      "month": "May 2018",
+      "date": "2018-05-01",
+      "attendances": 2164458,
+      "admissions": 533457,
+      "within4": 90.39,
+      "over12h": 106
+    },
+    {
+      "month": "Jun 2018",
+      "date": "2018-06-01",
+      "attendances": 2093942,
+      "admissions": 513254,
+      "within4": 90.76,
+      "over12h": 99
+    },
+    {
+      "month": "Jul 2018",
+      "date": "2018-07-01",
+      "attendances": 2179896,
+      "admissions": 529932,
+      "within4": 89.32,
+      "over12h": 149
+    },
+    {
+      "month": "Aug 2018",
+      "date": "2018-08-01",
+      "attendances": 1997854,
+      "admissions": 517299,
+      "within4": 89.73,
+      "over12h": 162
+    },
+    {
+      "month": "Sep 2018",
+      "date": "2018-09-01",
+      "attendances": 2005695,
+      "admissions": 510322,
+      "within4": 88.94,
+      "over12h": 154
+    },
+    {
+      "month": "Oct 2018",
+      "date": "2018-10-01",
+      "attendances": 2079492,
+      "admissions": 546022,
+      "within4": 89.01,
+      "over12h": 214
+    },
+    {
+      "month": "Nov 2018",
+      "date": "2018-11-01",
+      "attendances": 2037847,
+      "admissions": 545357,
+      "within4": 87.6,
+      "over12h": 259
+    },
+    {
+      "month": "Dec 2018",
+      "date": "2018-12-01",
+      "attendances": 2047518,
+      "admissions": 544903,
+      "within4": 86.45,
+      "over12h": 284
+    },
+    {
+      "month": "Jan 2019",
+      "date": "2019-01-01",
+      "attendances": 2113413,
+      "admissions": 564035,
+      "within4": 84.35,
+      "over12h": 627
+    },
+    {
+      "month": "Feb 2019",
+      "date": "2019-02-01",
+      "attendances": 1954947,
+      "admissions": 505722,
+      "within4": 84.23,
+      "over12h": 521
+    },
+    {
+      "month": "Mar 2019",
+      "date": "2019-03-01",
+      "attendances": 2167551,
+      "admissions": 555457,
+      "within4": 86.61,
+      "over12h": 331
+    },
+    {
+      "month": "Apr 2019",
+      "date": "2019-04-01",
+      "attendances": 2112165,
+      "admissions": 535226,
+      "within4": 85.13,
+      "over12h": 442
+    },
+    {
+      "month": "May 2019",
+      "date": "2019-05-01",
+      "attendances": 2172006,
+      "admissions": 547382,
+      "within4": 86.63,
+      "over12h": 416
+    },
+    {
+      "month": "Jun 2019",
+      "date": "2019-06-01",
+      "attendances": 2107987,
+      "admissions": 528801,
+      "within4": 86.37,
+      "over12h": 462
+    },
+    {
+      "month": "Jul 2019",
+      "date": "2019-07-01",
+      "attendances": 2265050,
+      "admissions": 554069,
+      "within4": 86.49,
+      "over12h": 452
+    },
+    {
+      "month": "Aug 2019",
+      "date": "2019-08-01",
+      "attendances": 2125435,
+      "admissions": 529231,
+      "within4": 86.29,
+      "over12h": 371
+    },
+    {
+      "month": "Sep 2019",
+      "date": "2019-09-01",
+      "attendances": 2123345,
+      "admissions": 529903,
+      "within4": 85.24,
+      "over12h": 458
+    },
+    {
+      "month": "Oct 2019",
+      "date": "2019-10-01",
+      "attendances": 2170885,
+      "admissions": 563133,
+      "within4": 83.64,
+      "over12h": 725
+    },
+    {
+      "month": "Nov 2019",
+      "date": "2019-11-01",
+      "attendances": 2143505,
+      "admissions": 559556,
+      "within4": 81.44,
+      "over12h": 1111
+    },
+    {
+      "month": "Dec 2019",
+      "date": "2019-12-01",
+      "attendances": 2180537,
+      "admissions": 560795,
+      "within4": 79.81,
+      "over12h": 2356
+    },
+    {
+      "month": "Jan 2020",
+      "date": "2020-01-01",
+      "attendances": 2114709,
+      "admissions": 559058,
+      "within4": 81.68,
+      "over12h": 2847
+    },
+    {
+      "month": "Feb 2020",
+      "date": "2020-02-01",
+      "attendances": 1969691,
+      "admissions": 510811,
+      "within4": 82.79,
+      "over12h": 1621
+    },
+    {
+      "month": "Mar 2020",
+      "date": "2020-03-01",
+      "attendances": 1531801,
+      "admissions": 427968,
+      "within4": 84.28,
+      "over12h": 1174
+    },
+    {
+      "month": "Apr 2020",
+      "date": "2020-04-01",
+      "attendances": 916575,
+      "admissions": 326581,
+      "within4": 90.44,
+      "over12h": 251
+    },
+    {
+      "month": "May 2020",
+      "date": "2020-05-01",
+      "attendances": 1261837,
+      "admissions": 398406,
+      "within4": 93.51,
+      "over12h": 93
+    },
+    {
+      "month": "Jun 2020",
+      "date": "2020-06-01",
+      "attendances": 1410602,
+      "admissions": 437601,
+      "within4": 92.78,
+      "over12h": 159
+    },
+    {
+      "month": "Jul 2020",
+      "date": "2020-07-01",
+      "attendances": 1588286,
+      "admissions": 473226,
+      "within4": 91.99,
+      "over12h": 271
+    },
+    {
+      "month": "Aug 2020",
+      "date": "2020-08-01",
+      "attendances": 1719003,
+      "admissions": 474225,
+      "within4": 89.17,
+      "over12h": 335
+    },
+    {
+      "month": "Sep 2020",
+      "date": "2020-09-01",
+      "attendances": 1693880,
+      "admissions": 479855,
+      "within4": 87.3,
+      "over12h": 346
+    },
+    {
+      "month": "Oct 2020",
+      "date": "2020-10-01",
+      "attendances": 1599347,
+      "admissions": 481846,
+      "within4": 84.43,
+      "over12h": 1268
+    },
+    {
+      "month": "Nov 2020",
+      "date": "2020-11-01",
+      "attendances": 1485176,
+      "admissions": 453916,
+      "within4": 83.85,
+      "over12h": 2148
+    },
+    {
+      "month": "Dec 2020",
+      "date": "2020-12-01",
+      "attendances": 1474674,
+      "admissions": 460260,
+      "within4": 80.28,
+      "over12h": 3745
+    },
+    {
+      "month": "Jan 2021",
+      "date": "2021-01-01",
+      "attendances": 1310806,
+      "admissions": 445600,
+      "within4": 78.51,
+      "over12h": 3825
+    },
+    {
+      "month": "Feb 2021",
+      "date": "2021-02-01",
+      "attendances": 1278091,
+      "admissions": 422424,
+      "within4": 83.92,
+      "over12h": 1021
+    },
+    {
+      "month": "Mar 2021",
+      "date": "2021-03-01",
+      "attendances": 1691282,
+      "admissions": 503926,
+      "within4": 86.14,
+      "over12h": 688
+    },
+    {
+      "month": "Apr 2021",
+      "date": "2021-04-01",
+      "attendances": 1866232,
+      "admissions": 510262,
+      "within4": 85.36,
+      "over12h": 526
+    },
+    {
+      "month": "May 2021",
+      "date": "2021-05-01",
+      "attendances": 2075542,
+      "admissions": 543965,
+      "within4": 83.69,
+      "over12h": 695
+    },
+    {
+      "month": "Jun 2021",
+      "date": "2021-06-01",
+      "attendances": 2157132,
+      "admissions": 535402,
+      "within4": 81.3,
+      "over12h": 1289
+    },
+    {
+      "month": "Jul 2021",
+      "date": "2021-07-01",
+      "attendances": 2160128,
+      "admissions": 532712,
+      "within4": 77.72,
+      "over12h": 2208
+    },
+    {
+      "month": "Aug 2021",
+      "date": "2021-08-01",
+      "attendances": 2035967,
+      "admissions": 503886,
+      "within4": 77.02,
+      "over12h": 2787
+    },
+    {
+      "month": "Sep 2021",
+      "date": "2021-09-01",
+      "attendances": 2127204,
+      "admissions": 507086,
+      "within4": 75.22,
+      "over12h": 5024
+    },
+    {
+      "month": "Oct 2021",
+      "date": "2021-10-01",
+      "attendances": 2164802,
+      "admissions": 517183,
+      "within4": 73.93,
+      "over12h": 7058
+    },
+    {
+      "month": "Nov 2021",
+      "date": "2021-11-01",
+      "attendances": 2037955,
+      "admissions": 506242,
+      "within4": 74.06,
+      "over12h": 10646
+    },
+    {
+      "month": "Dec 2021",
+      "date": "2021-12-01",
+      "attendances": 1874642,
+      "admissions": 499055,
+      "within4": 73.43,
+      "over12h": 12859
+    },
+    {
+      "month": "Jan 2022",
+      "date": "2022-01-01",
+      "attendances": 1875202,
+      "admissions": 484952,
+      "within4": 74.35,
+      "over12h": 16564
+    },
+    {
+      "month": "Feb 2022",
+      "date": "2022-02-01",
+      "attendances": 1825363,
+      "admissions": 459952,
+      "within4": 73.28,
+      "over12h": 16402
+    },
+    {
+      "month": "Mar 2022",
+      "date": "2022-03-01",
+      "attendances": 2174798,
+      "admissions": 514255,
+      "within4": 71.63,
+      "over12h": 22506
+    },
+    {
+      "month": "Apr 2022",
+      "date": "2022-04-01",
+      "attendances": 2028796,
+      "admissions": 479779,
+      "within4": 72.25,
+      "over12h": 24179
+    },
+    {
+      "month": "May 2022",
+      "date": "2022-05-01",
+      "attendances": 2233053,
+      "admissions": 517711,
+      "within4": 72.84,
+      "over12h": 19657
+    },
+    {
+      "month": "Jun 2022",
+      "date": "2022-06-01",
+      "attendances": 2191691,
+      "admissions": 503048,
+      "within4": 72.06,
+      "over12h": 22017
+    },
+    {
+      "month": "Jul 2022",
+      "date": "2022-07-01",
+      "attendances": 2181655,
+      "admissions": 497099,
+      "within4": 71.08,
+      "over12h": 29139
+    },
+    {
+      "month": "Aug 2022",
+      "date": "2022-08-01",
+      "attendances": 1995679,
+      "admissions": 482009,
+      "within4": 71.69,
+      "over12h": 28690
+    },
+    {
+      "month": "Sep 2022",
+      "date": "2022-09-01",
+      "attendances": 2008489,
+      "admissions": 487477,
+      "within4": 71.06,
+      "over12h": 32762
+    },
+    {
+      "month": "Oct 2022",
+      "date": "2022-10-01",
+      "attendances": 2188028,
+      "admissions": 506847,
+      "within4": 69.53,
+      "over12h": 43793
+    },
+    {
+      "month": "Nov 2022",
+      "date": "2022-11-01",
+      "attendances": 2178804,
+      "admissions": 515525,
+      "within4": 69.01,
+      "over12h": 37853
+    },
+    {
+      "month": "Dec 2022",
+      "date": "2022-12-01",
+      "attendances": 2294079,
+      "admissions": 517444,
+      "within4": 65.2,
+      "over12h": 54573
+    },
+    {
+      "month": "Jan 2023",
+      "date": "2023-01-01",
+      "attendances": 1968338,
+      "admissions": 508779,
+      "within4": 72.51,
+      "over12h": 42767
+    },
+    {
+      "month": "Feb 2023",
+      "date": "2023-02-01",
+      "attendances": 1914279,
+      "admissions": 472856,
+      "within4": 71.51,
+      "over12h": 34975
+    },
+    {
+      "month": "Mar 2023",
+      "date": "2023-03-01",
+      "attendances": 2165951,
+      "admissions": 532091,
+      "within4": 71.53,
+      "over12h": 39687
+    },
+    {
+      "month": "Apr 2023",
+      "date": "2023-04-01",
+      "attendances": 2034040,
+      "admissions": 490473,
+      "within4": 74.61,
+      "over12h": 26492
+    },
+    {
+      "month": "May 2023",
+      "date": "2023-05-01",
+      "attendances": 2245919,
+      "admissions": 528935,
+      "within4": 74.01,
+      "over12h": 31498
+    },
+    {
+      "month": "Jun 2023",
+      "date": "2023-06-01",
+      "attendances": 2225726,
+      "admissions": 522723,
+      "within4": 73.38,
+      "over12h": 26488
+    },
+    {
+      "month": "Jul 2023",
+      "date": "2023-07-01",
+      "attendances": 2199787,
+      "admissions": 534682,
+      "within4": 74.03,
+      "over12h": 23396
+    },
+    {
+      "month": "Aug 2023",
+      "date": "2023-08-01",
+      "attendances": 2109861,
+      "admissions": 523881,
+      "within4": 73.03,
+      "over12h": 27710
+    },
+    {
+      "month": "Sep 2023",
+      "date": "2023-09-01",
+      "attendances": 2170046,
+      "admissions": 521228,
+      "within4": 71.7,
+      "over12h": 32228
+    },
+    {
+      "month": "Oct 2023",
+      "date": "2023-10-01",
+      "attendances": 2224320,
+      "admissions": 546871,
+      "within4": 70.31,
+      "over12h": 43534
+    },
+    {
+      "month": "Nov 2023",
+      "date": "2023-11-01",
+      "attendances": 2167584,
+      "admissions": 544643,
+      "within4": 69.82,
+      "over12h": 42503
+    },
+    {
+      "month": "Dec 2023",
+      "date": "2023-12-01",
+      "attendances": 2184918,
+      "admissions": 546143,
+      "within4": 69.51,
+      "over12h": 43858
+    },
+    {
+      "month": "Jan 2024",
+      "date": "2024-01-01",
+      "attendances": 2230825,
+      "admissions": 556254,
+      "within4": 70.36,
+      "over12h": 54312
+    },
+    {
+      "month": "Feb 2024",
+      "date": "2024-02-01",
+      "attendances": 2157822,
+      "admissions": 527343,
+      "within4": 70.99,
+      "over12h": 44420
+    },
+    {
+      "month": "Mar 2024",
+      "date": "2024-03-01",
+      "attendances": 2370221,
+      "admissions": 567456,
+      "within4": 74.35,
+      "over12h": 42972
+    },
+    {
+      "month": "Apr 2024",
+      "date": "2024-04-01",
+      "attendances": 2240668,
+      "admissions": 544113,
+      "within4": 74.49,
+      "over12h": 42078
+    },
+    {
+      "month": "May 2024",
+      "date": "2024-05-01",
+      "attendances": 2416292,
+      "admissions": 564693,
+      "within4": 73.96,
+      "over12h": 42555
+    },
+    {
+      "month": "Jun 2024",
+      "date": "2024-06-01",
+      "attendances": 2294065,
+      "admissions": 536884,
+      "within4": 74.59,
+      "over12h": 38106
+    },
+    {
+      "month": "Jul 2024",
+      "date": "2024-07-01",
+      "attendances": 2324832,
+      "admissions": 552468,
+      "within4": 75.22,
+      "over12h": 36806
+    },
+    {
+      "month": "Aug 2024",
+      "date": "2024-08-01",
+      "attendances": 2160791,
+      "admissions": 525633,
+      "within4": 76.33,
+      "over12h": 28494
+    },
+    {
+      "month": "Sep 2024",
+      "date": "2024-09-01",
+      "attendances": 2214217,
+      "admissions": 530824,
+      "within4": 74.22,
+      "over12h": 38880
+    },
+    {
       "month": "Oct 2024",
       "date": "2024-10-01",
       "attendances": 2360536,
+      "admissions": 567448,
       "within4": 73.08,
       "over12h": 49616
     },
@@ -19,6 +1380,7 @@
       "month": "Nov 2024",
       "date": "2024-11-01",
       "attendances": 2314998,
+      "admissions": 552161,
       "within4": 72.18,
       "over12h": 45791
     },
@@ -26,6 +1388,7 @@
       "month": "Dec 2024",
       "date": "2024-12-01",
       "attendances": 2345934,
+      "admissions": 552592,
       "within4": 71.12,
       "over12h": 54207
     },
@@ -33,6 +1396,7 @@
       "month": "Jan 2025",
       "date": "2025-01-01",
       "attendances": 2218130,
+      "admissions": 548775,
       "within4": 73.01,
       "over12h": 61529
     },
@@ -40,6 +1404,7 @@
       "month": "Feb 2025",
       "date": "2025-02-01",
       "attendances": 2088071,
+      "admissions": 496095,
       "within4": 73.46,
       "over12h": 47623
     },
@@ -47,6 +1412,7 @@
       "month": "Mar 2025",
       "date": "2025-03-01",
       "attendances": 2389064,
+      "admissions": 551129,
       "within4": 74.98,
       "over12h": 46766
     },
@@ -54,6 +1420,7 @@
       "month": "Apr 2025",
       "date": "2025-04-01",
       "attendances": 2297421,
+      "admissions": 528230,
       "within4": 74.78,
       "over12h": 44648
     },
@@ -61,6 +1428,7 @@
       "month": "May 2025",
       "date": "2025-05-01",
       "attendances": 2397529,
+      "admissions": 545128,
       "within4": 75.4,
       "over12h": 42891
     },
@@ -68,6 +1436,7 @@
       "month": "Jun 2025",
       "date": "2025-06-01",
       "attendances": 2351581,
+      "admissions": 535941,
       "within4": 75.56,
       "over12h": 38683
     },
@@ -75,6 +1444,7 @@
       "month": "Jul 2025",
       "date": "2025-07-01",
       "attendances": 2408866,
+      "admissions": 559392,
       "within4": 76.41,
       "over12h": 35467
     },
@@ -82,6 +1452,7 @@
       "month": "Aug 2025",
       "date": "2025-08-01",
       "attendances": 2266937,
+      "admissions": 526399,
       "within4": 75.88,
       "over12h": 35909
     },
@@ -89,6 +1460,7 @@
       "month": "Sep 2025",
       "date": "2025-09-01",
       "attendances": 2310222,
+      "admissions": 535580,
       "within4": 75.05,
       "over12h": 44765
     },
@@ -96,6 +1468,7 @@
       "month": "Oct 2025",
       "date": "2025-10-01",
       "attendances": 2401266,
+      "admissions": 553499,
       "within4": 74.19,
       "over12h": 54326
     },
@@ -103,6 +1476,7 @@
       "month": "Nov 2025",
       "date": "2025-11-01",
       "attendances": 2347046,
+      "admissions": 531747,
       "within4": 74.22,
       "over12h": 50648
     },
@@ -110,6 +1484,7 @@
       "month": "Dec 2025",
       "date": "2025-12-01",
       "attendances": 2326139,
+      "admissions": 542188,
       "within4": 73.84,
       "over12h": 50789
     },
@@ -117,6 +1492,7 @@
       "month": "Jan 2026",
       "date": "2026-01-01",
       "attendances": 2319296,
+      "admissions": 546136,
       "within4": 72.45,
       "over12h": 71517
     },
@@ -124,6 +1500,7 @@
       "month": "Feb 2026",
       "date": "2026-02-01",
       "attendances": 2117450,
+      "admissions": 493015,
       "within4": 74.06,
       "over12h": 54649
     },
@@ -131,6 +1508,7 @@
       "month": "Mar 2026",
       "date": "2026-03-01",
       "attendances": 2432272,
+      "admissions": 553892,
       "within4": 77.11,
       "over12h": 46665
     },
@@ -138,6 +1516,7 @@
       "month": "Apr 2026",
       "date": "2026-04-01",
       "attendances": 2345329,
+      "admissions": 525660,
       "within4": 76.91,
       "over12h": 47750
     },
@@ -145,6 +1524,7 @@
       "month": "May 2026",
       "date": "2026-05-01",
       "attendances": 2457398,
+      "admissions": 533280,
       "within4": 75.69,
       "over12h": 50212
     },
@@ -152,6 +1532,7 @@
       "month": "Jun 2026",
       "date": "2026-06-01",
       "attendances": 2437906,
+      "admissions": 534753,
       "within4": 75.02,
       "over12h": 49466
     },
@@ -159,6 +1540,7 @@
       "month": "Jul 2026",
       "date": "2026-07-01",
       "attendances": 2487580,
+      "admissions": 547828,
       "within4": 75.37,
       "over12h": 47438
     },
@@ -166,6 +1548,7 @@
       "month": "Aug 2026",
       "date": "2026-08-01",
       "attendances": 2342959,
+      "admissions": 517868,
       "within4": 75.04,
       "over12h": 44951
     },
@@ -173,6 +1556,7 @@
       "month": "Sep 2026",
       "date": "2026-09-01",
       "attendances": 2444743,
+      "admissions": 536158,
       "within4": 74.36,
       "over12h": 50582
     }
